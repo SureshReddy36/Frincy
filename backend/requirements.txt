@@ -1,0 +1,16 @@
+flask==2.3.3
+flask-cors==4.0.0
+flask-sqlalchemy==3.0.5
+flask-migrate==4.0.5
+flask-jwt-extended==4.5.3
+python-dotenv==1.0.0
+bcrypt==4.0.1
+marshmallow==3.20.1
+
+# git add . && git commit -m "msg" && git push
+
+# Pull changes:
+# git pull origin main
+
+# View Git logs:
+# git log or use the GitLens extension for enh
