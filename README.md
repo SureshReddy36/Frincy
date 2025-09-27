@@ -37,12 +37,12 @@ git clone https://github.com/ySureshReddy36/frincy.git
 ![Dashboard](images/Dashboard.png)
 
 ## Villages Form
-![villages](images/Villages.png)
+![villages](images/villages.png)
 ## Add Customer Page
 ![Customers](images/customers.png)
 
 ## Loans Page
-![Loans](images/Loans.png)
+![Loans](images/loans.png)
 
 ## payments Page
 ![payments](images/payments.png)
