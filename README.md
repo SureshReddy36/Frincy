@@ -34,10 +34,10 @@ git clone https://github.com/ySureshReddy36/frincy.git
 ```
 ## Images
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ## Villages Form
-![Loans](images/Loans.png)
+![villages](images/Villages.png)
 ## Add Customer Page
 ![Customers](images/customers.png)
 
